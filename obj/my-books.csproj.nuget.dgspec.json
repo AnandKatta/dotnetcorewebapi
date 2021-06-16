@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AnandKumar.S\\OneDrive - EY\\Documents\\Personal_doc\\dotnetcore\\my-books\\my-books.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AnandKumar.S\\OneDrive - EY\\Documents\\Personal_doc\\dotnetcore\\my-books\\my-books.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AnandKumar.S\\OneDrive - EY\\Documents\\Personal_doc\\dotnetcore\\my-books\\my-books.csproj",
+        "projectName": "my-books",
+        "projectPath": "C:\\Users\\AnandKumar.S\\OneDrive - EY\\Documents\\Personal_doc\\dotnetcore\\my-books\\my-books.csproj",
+        "packagesPath": "C:\\Users\\AnandKumar.S\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AnandKumar.S\\OneDrive - EY\\Documents\\Personal_doc\\dotnetcore\\my-books\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AnandKumar.S\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://eytttcode.pkgs.visualstudio.com/RAPToR_Program/_packaging/raptor-ApplicationInsightsLogger/nuget/v3/index.json": {},
+          "https://eytttcode.pkgs.visualstudio.com/_packaging/Raptor-AzureKeyVaultConnector/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
